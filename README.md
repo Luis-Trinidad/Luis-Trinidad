@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Luis-Trinidad/Luis-Trinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Luis Trinidad! 👋
 
-Here are some ideas to get you started:
+I'm passionate about building clean, efficient, and user-friendly web applications. Always learning and exploring new tools to improve my development workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Skills
+Frontend: Vue.js, React, JavaScript, TypeScript, Tailwind,
+
+Backend: PHP, Node.js, Express
+
+Database: MySQL, PostgreSQL, MongoDB
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-de-jes%C3%BAs-trinidad-garcia-1237a2299/)
+
+
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=iceberg&hide_border=true&border_radius=1.1&short_numbers=true)](https://git.io/streak-stats)
+
+

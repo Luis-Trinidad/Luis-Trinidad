@@ -1,21 +1,10 @@
 <p align="center">
-  <img src="./assets/img/sung-jin.gif" alt="Luis Trinidad Banner" width="100%" />
+  <img src="./assets/img/banner.jpg" alt="Luis Trinidad Banner" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h1>Hi, I'm Luis Trinidad! 👋</h1>
-      <p>
-        I'm passionate about building clean, efficient, and user-friendly web applications.<br />
-        Always learning and exploring new tools to improve my development workflow.
-      </p>
-    </td>
-    <td>
-      <img src="./assets/img/loop.gif" width="120" alt="Loop GIF" />
-    </td>
-  </tr>
-</table>
+# Hi, I'm Luis Trinidad! 👋
+
+I'm passionate about building clean, efficient, and user-friendly web applications. Always learning and exploring new tools to improve my development workflow.
 
 
 ## 🛠️ Skills
@@ -67,7 +56,6 @@
 </p>
 
 
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-de-jes%C3%BAs-trinidad-garcia-1237a2299/)
@@ -75,7 +63,7 @@
 
 
 ## GitHub Stats
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=monokai&short_numbers=true&card_width=688)](https://git.io/streak-stats)
-
+</P>
 

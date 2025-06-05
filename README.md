@@ -63,7 +63,5 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 
 
 ## GitHub Stats
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=monokai&short_numbers=true&card_width=688)](https://git.io/streak-stats)
-</P>
 

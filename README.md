@@ -1,8 +1,21 @@
+<p align="center">
+  <img src="./assets/img/sung-jin.gif" alt="Luis Trinidad Banner" width="100%" />
+</p>
 
-# Hi, I'm Luis Trinidad! 👋
-
-I'm passionate about building clean, efficient, and user-friendly web applications. Always learning and exploring new tools to improve my development workflow.
-
+<table>
+  <tr>
+    <td>
+      <h1>Hi, I'm Luis Trinidad! 👋</h1>
+      <p>
+        I'm passionate about building clean, efficient, and user-friendly web applications.<br />
+        Always learning and exploring new tools to improve my development workflow.
+      </p>
+    </td>
+    <td>
+      <img src="./assets/img/loop.gif" width="120" alt="Loop GIF" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Skills
@@ -39,7 +52,7 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 ### 🛠️ Herramientas y Otros
 <p>
   <img src="./assets/Git.svg" height="60" alt="Git" />
-  <img src="./assets/GitHub-Dark.svg" height="60" alt="GitHub" />
+  <img src="./assets/Github-Dark.svg" height="60" alt="GitHub" />
   <img src="./assets/GitLab-Dark.svg" height="60" alt="GitLab" />
   <img src="./assets/Postman.svg" height="60" alt="Postman" />
   <img src="./assets/VSCode-Dark.svg" height="60" alt="VS Code" />
@@ -63,6 +76,6 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=iceberg&hide_border=true&border_radius=1.1&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=monokai&short_numbers=true&card_width=688)](https://git.io/streak-stats)
 
 

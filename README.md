@@ -31,14 +31,14 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
   <img src="./assets/PHP-Dark.svg" height="60" alt="PHP" />
 </p>
 
-### 💾 Base de Datos
+### 💾 Database
 <p>
   <img src="./assets/MySQL-Dark.svg" height="60" alt="MySQL" />
   <img src="./assets/PostgreSQL-Dark.svg" height="60" alt="PostgreSQL" />
   <img src="./assets/MongoDB.svg" height="60" alt="MongoDB" />
 </p>
 
-### 🛠️ Herramientas y Otros
+### 🛠️ Tools and others
 <p>
   <img src="./assets/Git.svg" height="60" alt="Git" />
   <img src="./assets/Github-Dark.svg" height="60" alt="GitHub" />

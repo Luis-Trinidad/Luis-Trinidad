@@ -2,9 +2,13 @@
   <img src="./assets/img/banner.jpg" alt="Luis Trinidad Banner" />
 </p>
 
-# Hi, I'm Luis Trinidad! 👋
+<div align="center">
 
-I'm passionate about building clean, efficient, and user-friendly web applications. Always learning and exploring new tools to improve my development workflow.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=2px&duration=3000&pause=1000&color=F7F7F7&multiline=true&width=435&height=90&lines=Luis+de+Jesus+Trinidad+Garcia)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=2px&pause=1000&color=F72C2C&multiline=true&width=435&height=90&lines=Full-Stack+Web+Developer;I+build+clean+and+intuitive+web+apps;Clean+code+is+my+priority)](https://git.io/typing-svg)
+
+</div>
 
 
 ## 🛠️ Skills
@@ -63,5 +67,6 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=monokai&short_numbers=true&card_width=688)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Trinidad&theme=monokai&short_numbers=true&card_width=846)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Trinidad&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 

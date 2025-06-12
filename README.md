@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=2px&duration=3000&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Luis+de+Jesus+Trinidad+Garcia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&letterSpacing=2px&duration=3000&pause=&color=F7F7F7&multiline=true&repeat=false&width=435&lines=Luis+de+Jesus+Trinidad+Garcia)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=2px&pause=1000&color=F72C2C&multiline=true&width=435&height=90&lines=Full-Stack+Web+Developer;I+build+clean+and+intuitive+web+apps;Clean+code+is+my+priority)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=21&letterSpacing=2px&pause=1000&color=F72C2C&multiline=true&width=435&height=90&lines=Full-Stack+Web+Developer;I+build+clean+and+intuitive+web+apps;Clean+code+is+my+priority)](https://git.io/typing-svg)
 
 </div>
 

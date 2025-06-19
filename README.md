@@ -23,7 +23,6 @@
   <img src="./assets/React-Dark.svg" height="60" alt="React" />
   <img src="./assets/Redux.svg" height="60" alt="Redux" />
   <img src="./assets/Sass.svg" height="60" alt="Sass" />
-  <img src="./assets/Swift.svg" height="60" alt="Swift" />
   <img src="./assets/TailwindCSS-Dark.svg" height="60" alt="Tailwind CSS" />
   <img src="./assets/TypeScript.svg" height="60" alt="TypeScript" />
   <img src="./assets/Vite-Dark.svg" height="60" alt="Vite" />

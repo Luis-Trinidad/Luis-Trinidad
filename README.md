@@ -32,7 +32,6 @@
 ### 🧰 Backend
 <p>
   <img src="./assets/ExpressJS-Dark.svg" height="60" alt="Express.js" />
-  <img src="./assets/Firebase-Dark.svg" height="60" alt="Firebase" />
   <img src="./assets/Laravel-Dark.svg" height="60" alt="Laravel" />
   <img src="./assets/NestJS-Dark.svg" height="60" alt="NestJS" />
   <img src="./assets/NodeJS-Dark.svg" height="60" alt="Node.js" />

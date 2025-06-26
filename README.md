@@ -55,7 +55,6 @@
   <img src="./assets/Github-Dark.svg" height="60" alt="GitHub" />
   <img src="./assets/GitLab-Dark.svg" height="60" alt="GitLab" />
   <img src="./assets/Linux-Dark.svg" height="60" alt="Linux" />
-  <img src="./assets/Netlify-Dark.svg" height="60" alt="Netlify" />
   <img src="./assets/Postman.svg" height="60" alt="Postman" />
   <img src="./assets/VSCode-Dark.svg" height="60" alt="VS Code" />
 </p>

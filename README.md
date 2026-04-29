@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/banner.png" alt="Luis Trinidad — Software Engineer" width="100%" />
+  <img src="./assets/img/banner.jpeg" alt="Luis Trinidad — Software Engineer" width="100%" />
 </p>
 
 <div align="center">

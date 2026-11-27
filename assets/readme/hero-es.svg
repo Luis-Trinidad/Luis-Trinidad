@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;white-space:pre}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+.fade{opacity:0;animation:fade .6s ease forwards}
+.flow{stroke-dasharray:3 5;animation:flow 1.2s linear infinite}
+@keyframes fade{to{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-16}}
+
+.cursor{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.rot{opacity:0;animation:rot 12s infinite}
+@keyframes rot{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}
+</style>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3fb950"/></marker></defs>
+<rect x=".5" y=".5" width="999" height="319" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="48" y="82" font-size="52" fill="#e6edf3" font-weight="700" text-anchor="start" letter-spacing="-1">Luis Trinidad</text>
+<text x="48" y="118" font-size="20" fill="#c9d1d9" font-weight="500" text-anchor="start" >Software Engineer en TrazoLab</text>
+<text x="48" y="144" font-size="15" fill="#8b949e" font-weight="400" text-anchor="start" >Mazatlán, México</text>
+<path d="M48 170H540" stroke="#30363d"/>
+<text x="48" y="202" font-size="13" fill="#8b949e" font-weight="400" text-anchor="start" class="mono" >construyendo ahora</text>
+<text x="48" y="232" font-size="20" font-weight="600" fill="#58a6ff" class="mono rot" style="animation-delay:0s">ERPs multitenant</text>
+<text x="48" y="232" font-size="20" font-weight="600" fill="#3fb950" class="mono rot" style="animation-delay:3s">reconocimiento facial offline</text>
+<text x="48" y="232" font-size="20" font-weight="600" fill="#f78166" class="mono rot" style="animation-delay:6s">pipelines de IA documental</text>
+<text x="48" y="232" font-size="20" font-weight="600" fill="#d29922" class="mono rot" style="animation-delay:9s">apps móviles offline-first</text>
+<rect x="48" y="260" width="86" height="22" rx="4" fill="#58a6ff" fill-opacity=".1" stroke="#58a6ff" stroke-opacity=".5"/><text x="91.0" y="275" font-size="11.5" fill="#58a6ff" font-weight="400" text-anchor="middle" class="mono" >TypeScript</text><rect x="140.0" y="260" width="58" height="22" rx="4" fill="#f78166" fill-opacity=".1" stroke="#f78166" stroke-opacity=".5"/><text x="169.0" y="275" font-size="11.5" fill="#f78166" font-weight="400" text-anchor="middle" class="mono" >NestJS</text><rect x="204.0" y="260" width="65" height="22" rx="4" fill="#c9d1d9" fill-opacity=".1" stroke="#c9d1d9" stroke-opacity=".5"/><text x="236.5" y="275" font-size="11.5" fill="#c9d1d9" font-weight="400" text-anchor="middle" class="mono" >Next.js</text><rect x="275.0" y="260" width="100" height="22" rx="4" fill="#3fb950" fill-opacity=".1" stroke="#3fb950" stroke-opacity=".5"/><text x="325.0" y="275" font-size="11.5" fill="#3fb950" font-weight="400" text-anchor="middle" class="mono" >React Native</text><rect x="381.0" y="260" width="86" height="22" rx="4" fill="#58a6ff" fill-opacity=".1" stroke="#58a6ff" stroke-opacity=".5"/><text x="424.0" y="275" font-size="11.5" fill="#58a6ff" font-weight="400" text-anchor="middle" class="mono" >PostgreSQL</text><rect x="473.0" y="260" width="37" height="22" rx="4" fill="#d29922" fill-opacity=".1" stroke="#d29922" stroke-opacity=".5"/><text x="491.5" y="275" font-size="11.5" fill="#d29922" font-weight="400" text-anchor="middle" class="mono" >GCP</text>
+<rect x="584" y="36" width="380" height="248" rx="6" fill="#161b22" stroke="#30363d"/><path d="M584 64H964" stroke="#30363d"/><circle cx="600" cy="50" r="4" fill="#f78166"/><circle cx="614" cy="50" r="4" fill="#d29922"/><circle cx="628" cy="50" r="4" fill="#3fb950"/><text x="774.0" y="54" font-size="11" fill="#6e7681" font-weight="400" text-anchor="middle" class="mono" >~/work</text>
+<g class="fade" style="animation-delay:0.50s"><text x="600" y="90" font-size="12.5" fill="#3fb950" font-weight="700" text-anchor="start" class="mono" >$</text><text x="616" y="90" font-size="12.5" fill="#e6edf3" font-weight="400" text-anchor="start" class="mono" >pnpm turbo build</text></g>
+<g class="fade" style="animation-delay:0.85s"><text x="600" y="113" font-size="12.5" fill="#3fb950" font-weight="400" text-anchor="start" class="mono" >✓</text><text x="616" y="113" font-size="12.5" fill="#8b949e" font-weight="400" text-anchor="start" class="mono" >Tasks: 9 successful, 9 total</text></g>
+<g class="fade" style="animation-delay:1.20s"><text x="600" y="136" font-size="12.5" fill="#3fb950" font-weight="700" text-anchor="start" class="mono" >$</text><text x="616" y="136" font-size="12.5" fill="#e6edf3" font-weight="400" text-anchor="start" class="mono" >prisma migrate deploy</text></g>
+<g class="fade" style="animation-delay:1.55s"><text x="600" y="159" font-size="12.5" fill="#3fb950" font-weight="400" text-anchor="start" class="mono" >✓</text><text x="616" y="159" font-size="12.5" fill="#8b949e" font-weight="400" text-anchor="start" class="mono" >All migrations have been applied</text></g>
+<g class="fade" style="animation-delay:1.90s"><text x="600" y="182" font-size="12.5" fill="#3fb950" font-weight="700" text-anchor="start" class="mono" >$</text><text x="616" y="182" font-size="12.5" fill="#e6edf3" font-weight="400" text-anchor="start" class="mono" >eas build -p android</text></g>
+<g class="fade" style="animation-delay:2.25s"><text x="600" y="205" font-size="12.5" fill="#3fb950" font-weight="400" text-anchor="start" class="mono" >✓</text><text x="616" y="205" font-size="12.5" fill="#8b949e" font-weight="400" text-anchor="start" class="mono" >Build finished</text></g>
+<g class="fade" style="animation-delay:2.60s"><text x="600" y="228" font-size="12.5" fill="#3fb950" font-weight="700" text-anchor="start" class="mono" >$</text><text x="616" y="228" font-size="12.5" fill="#e6edf3" font-weight="400" text-anchor="start" class="mono" >gcloud run deploy api</text></g>
+<g class="fade" style="animation-delay:2.95s"><text x="600" y="251" font-size="12.5" fill="#3fb950" font-weight="400" text-anchor="start" class="mono" >✓</text><text x="616" y="251" font-size="12.5" fill="#8b949e" font-weight="400" text-anchor="start" class="mono" >Service deployed</text></g>
+<g class="fade" style="animation-delay:3.30s"><text x="600" y="274" font-size="12.5" fill="#3fb950" font-weight="700" text-anchor="start" class="mono" >$</text><rect x="616" y="263" width="7" height="14" fill="#e6edf3" class="cursor"/></g>
+</svg>
